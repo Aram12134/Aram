@@ -1,0 +1,96 @@
+.x{
+    display: flex;
+        flex-wrap: wrap;
+}
+
+        .x__t {    position: relative;
+}
+        
+        .x__t {
+            position: absolute;
+            top: 4%;
+            left: 10%;
+            text-align: center;
+            color: rgb(0, 0, 0);
+            font-size: 30px;
+            cursor: pointer;
+}
+        
+        .x__t:hover {
+        color: rgb(255, 255, 255);
+}
+
+.my-vertical-button {
+    position: absolute;
+    top: 250px; /* Расстояние от верхнего края */
+    left: 20px; /* Расстояние от левого края */
+    width: 1500px; /* Ширина кнопки равна ширине родительского элемента */
+    height: 80px; /* Высота кнопки */
+    padding: 10px 20px;
+    font-size: 30px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 10px; /* Добавляет небольшой отступ снизу */
+}
+
+.my-vertical-button:hover {
+    background-color: #0056b3;
+}
+
+.my-vertical-button:focus {
+    outline: none; /* Убирает обводку при фокусировке на кнопке */
+}
+
+.my-vertical-button2 {
+    position: absolute;
+    top: 400px; /* Расстояние от верхнего края */
+    left: 20px; /* Расстояние от левого края */
+    width: 1500px; /* Ширина кнопки равна ширине родительского элемента */
+    height: 80px; /* Высота кнопки */
+    padding: 10px 20px;
+    font-size: 30px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 10px; /* Добавляет небольшой отступ снизу */
+
+}
+
+.my-vertical-button2:hover {
+    background-color: #0056b3;
+}
+
+.my-vertical-button2:focus {
+    outline: none; /* Убирает обводку при фокусировке на кнопке */
+}
+
+.my-vertical-button3 {
+    position: absolute;
+    top: 550px; /* Расстояние от верхнего края */
+    left: 20px; /* Расстояние от левого края */
+    width: 1500px; /* Ширина кнопки равна ширине родительского элемента */
+    height: 80px; /* Высота кнопки */
+    padding: 10px 20px;
+    font-size: 30px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 10px; /* Добавляет небольшой отступ снизу */
+    right: 40px; /* Переместить кнопку вправо */
+}
+
+.my-vertical-button3:hover {
+    background-color: #0056b3;
+}
+
+.my-vertical-button3:focus {
+    outline: none; /* Убирает обводку при фокусировке на кнопке */
+}
+
